@@ -1,0 +1,16 @@
+# Android / Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Secretos locales: NUNCA subir
+secrets.properties
+
+# Firmas / credenciales
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
